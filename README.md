@@ -1,6 +1,5 @@
 # Cosmic Chronometers H(z) Data (32 points)
 
-[![ApJ](https://img.shields.io/badge/ApJ-962%2C%20103-blue)](https://doi.org/10.3847/1538-4357/ad1f3c)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 32 Hubble parameter measurements from cosmic chronometers.
