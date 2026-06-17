@@ -16,7 +16,6 @@
 | File | Description |
 |------|-------------|
 | `Hz_data_32points.csv` | Main data: z, Hz, sigma_Hz, Reference, Correlated |
-| `covariance/` | Covariance matrix for 15 correlated points (from [Moresco GitLab](https://gitlab.com/mmoresco/CCcovariance)) |
 
 ## Quick Start
 
